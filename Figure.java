@@ -7,8 +7,3 @@ dim2=b;
 }
 abstract double area();
 }
-class Rectangle extends Figure{
-  Rectangle (double a ,double b){
-    super(a,b);
-}
-}
